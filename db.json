@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Antony",
+      "email": "antony@example.com",
+      "username": "antony",
+      "password": "123456"
+    },
+    {
+      "id": "e2e7",
+      "fullName": "Juan Manuel",
+      "email": "juan@gmail.com",
+      "username": "BioHazard23",
+      "password": "juan1"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Project Brainstorm",
+      "description": "Brainstorming session for the new project",
+      "ownerId": 1,
+      "sharedWith": [],
+      "createdAt": "2024-07-10T00:00:00Z"
+    }
+  ]
+}
